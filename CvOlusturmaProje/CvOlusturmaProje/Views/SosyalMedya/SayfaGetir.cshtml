@@ -1,0 +1,33 @@
+﻿@model CvOlusturmaProje.Models.Entity.tbl_SosyalMedya
+
+@{
+    ViewBag.Title = "SayfaGetir";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>SayfaGetir</h2>
+<br />
+
+<h4>Sosyal Medya Düzenleme Sayfası</h4>
+
+<br />
+<form method="post">
+
+    @Html.Label("Sosyal Medya Adı")
+    @Html.TextBoxFor(x => x.Ad, new { @class = "form-control" })
+    <br />
+
+    @Html.Label("Link")
+    @Html.TextBoxFor(x => x.Link, new { @class = "form-control" })
+    <br />
+
+    @Html.Label("Simge")
+    @Html.TextBoxFor(x => x.Simge, new { @class = "form-control" })
+    <br />
+
+
+
+
+    <button class="btn btn-success">Güncelle</button>
+</form>
+
