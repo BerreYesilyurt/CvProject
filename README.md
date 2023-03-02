@@ -9,7 +9,7 @@
 
 ![Cv4](https://user-images.githubusercontent.com/77548130/222541236-6fbbfc5b-9795-4341-99f0-440fd5a837b2.JPG)
 
-- **Sitenin ana sayfasındaki bölümler ile ilgili olarak ekleme, silme ve güncelleme işlemleri bu sayfadan yapılmaktadır. Aşağıda birkaç örnek görüntü yer almaktadır.**
+- **Sitenin ana sayfasındaki bölümler ile ilgili olarak ekleme, silme ve güncelleme işlemleri bu sayfadan yapılmaktadır. "Siteye Git" kısmına tıklandığında ise ana sayfaya dönülmektedir. Aşağıda birkaç örnek görüntü yer almaktadır.**
 
 ![Cv5](https://user-images.githubusercontent.com/77548130/222542080-2c2bf556-9251-48f8-ae28-480e13edcf50.JPG)
 ![Cv6](https://user-images.githubusercontent.com/77548130/222542107-4d862c02-17ee-4763-9a6e-7c70946fc5ad.JPG)
